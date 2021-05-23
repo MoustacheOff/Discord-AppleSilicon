@@ -15,14 +15,14 @@ We will create a native version of Discord running natively on Apple Silicon chi
 #### 4. Enter the following command:
 
 ```
-  nativefier \
+nativefier \
   --background-color '#23272A' \
   --browserwindow-options '{ "fullscreenable": "true", "simpleFullscreen": "false" }' \
   --counter \
-  --darwin-dark-mode-support
+  --darwin-dark-mode-support \
   --enable-es3-apis \
   --icon discord.icns \
-  --inject discord.js
+  --inject discord.js \
   --title-bar-style hiddenInset \
   https://discord.com/app
   ```
