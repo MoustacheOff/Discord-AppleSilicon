@@ -10,6 +10,8 @@ We will create a native version of Discord running natively on Apple Silicon chi
 
 #### 3. Open a Terminal window, then execute the command cd ~/Downloads
 
+#### 4. Install Nativefier: ```brew install nativefier```
+
 #### 4. Enter the following command:
 
 ```
