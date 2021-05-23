@@ -12,7 +12,7 @@ We will create a native version of Discord running natively on Apple Silicon chi
 
 #### 4. Enter the following command:
 
-```js
+```
   nativefier \
   --background-color '#23272A' \
   --browserwindow-options '{ "fullscreenable": "true", "simpleFullscreen": "false" }' \
