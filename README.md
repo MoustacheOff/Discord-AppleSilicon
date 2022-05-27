@@ -1,3 +1,7 @@
+<p align="center">
+    <img width="256" heigth="256" src="https://i.goopics.net/se2aie.png">
+</p>
+
 # ⚠️ IMPORTANT: Since version 0.0.266, Discord now runs natively on M1 Macs, with all the features (screen-share, Rich Presence etc…)
 # This repo is no longer useful. That's why it is now archived.
 
